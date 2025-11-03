@@ -112,7 +112,7 @@ Kubricate includes a modular way to manage secrets:
 * **Providers** map those secrets into Kubernetes formats (e.g. `Opaque`, `DockerConfig`, `EnvFrom`)
 * **SecretManager** coordinates all of this.
 
-You’ll explore this in `Working with Secrets`.
+You’ll explore this in [**Working with Secrets**](./working-with-secrets).
 
 ## Where to Go Next
 
